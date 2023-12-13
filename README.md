@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mohamed-salah-7796b611b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-salah-7796b611b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-salah-7796b611b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-salah-7796b611b" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.sallah.940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.sallah.940" height="30" width="40" /></a>
 </p>
 
