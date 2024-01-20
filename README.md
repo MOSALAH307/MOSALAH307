@@ -34,7 +34,13 @@
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="node.js" width="40" height="40"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="node.js" width="40" height="40"/>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354333/sequelize.svg" alt="sequelize" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-eg_ps-all_desktop_eng_lead&utm_term=mongodb%20com&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624392&adgroup=115749716783&cq_cmp=12212624392&gad_source=1&gclid=Cj0KCQiA-62tBhDSARIsAO7twbboibMFmyvPvvEVE0KPkTAINwuTdTAynPkaIPDOprBv9tgJvEwYf6YaAsE7EALw_wcB" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="40" height="40"/>
     </a>
 </p>
 
