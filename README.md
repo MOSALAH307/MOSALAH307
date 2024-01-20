@@ -32,6 +32,8 @@
     </a>
     <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40"/>
     </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="node.js" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MOSALAH307&show_icons=true&locale=en&layout=compact" alt="MOSALAH307" /></p>
