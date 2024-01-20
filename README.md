@@ -34,6 +34,8 @@
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="node.js" width="40" height="40"/>
     </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="node.js" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MOSALAH307&show_icons=true&locale=en&layout=compact" alt="MOSALAH307" /></p>
