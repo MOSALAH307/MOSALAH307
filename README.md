@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 
-- 🌱 I’m currently learning *Next.js / Typescript / Node.js*
+- 🌱 I’m currently learning *Next.js / Typescript / Node.js / Angular*
 
 - 📫 How to reach me *msallah307@gmail.com*
 
